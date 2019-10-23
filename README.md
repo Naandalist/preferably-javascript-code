@@ -1,4 +1,4 @@
-<h1 align="center">preferably-javascript-code</h1>
+<h1 align="center">preferably javascript code</h1>
 
 <p align="center">
   <a href="https://nodejs.org/">
